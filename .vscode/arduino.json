@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "sketch": "MAX30102_spo2_test.ino",
+    "port": "COM5"
+}

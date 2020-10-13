@@ -1,0 +1,50 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "${workspaceFolder}/libraries/**",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/compat/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/util/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/7.3.0/include/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed/",
+                "C:/Program Files (x86)/Arduino/libraries/Bridge/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Esplora/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Ethernet/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Firmata/**",
+                "C:/Program Files (x86)/Arduino/libraries/GSM/src/",
+                "C:/Program Files (x86)/Arduino/libraries/LiquidCrystal/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Robot_Control/src/",
+                "C:/Program Files (x86)/Arduino/libraries/RobotIRremote/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Robot_Motor/src/",
+                "C:/Program Files (x86)/Arduino/libraries/SD/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Servo/src/",
+                "C:/Program Files (x86)/Arduino/libraries/SpacebrewYun/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Stepper/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Temboo/src/",
+                "C:/Program Files (x86)/Arduino/libraries/TFT/src/",
+                "C:/Program Files (x86)/Arduino/libraries/WiFi/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Keyboard/src/",
+                "C:/Program Files (x86)/Arduino/libraries/Mouse/src/"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.25.28610/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "forcedInclude": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
